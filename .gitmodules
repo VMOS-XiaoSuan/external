@@ -1,0 +1,4 @@
+[submodule "valgrind"]
+	path = valgrind
+	url = git://mirrors.ustc.edu.cn/aosp/platform/external/valgrind.git
+	branch = lollipop-mr1-release
