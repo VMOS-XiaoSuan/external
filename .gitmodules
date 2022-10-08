@@ -2,3 +2,7 @@
 	path = valgrind
 	url = git://mirrors.ustc.edu.cn/aosp/platform/external/valgrind.git
 	branch = lollipop-mr1-release
+[submodule "llvm"]
+	path = llvm
+	url = git://mirrors.ustc.edu.cn/aosp/platform/external/llvm.git
+	branch = lollipop-mr1-release
