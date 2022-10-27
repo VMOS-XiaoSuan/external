@@ -16,11 +16,11 @@
 	branch = lollipop-mr1-release
 [submodule "chromium-webview"]
 	path = chromium-webview
-	url = git@github.com:VMOS-XiaoSuan/chromium-webview.git
+	url = https://github.com/VMOS-XiaoSuan/chromium-webview.git
 [submodule "eclipse-basebuilder"]
 	path = eclipse-basebuilder
 	url = git://mirrors.ustc.edu.cn/aosp/platform/external/eclipse-basebuilder.git
 	branch = lollipop-mr1-release
 [submodule "chromium_org"]
 	path = chromium_org
-	url = git@github.com:VMOS-XiaoSuan/chromium_org.git
+	url = https://github.com/VMOS-XiaoSuan/chromium_org.git
